@@ -1,11 +1,11 @@
 module.exports = {
   siteMetadata: {
-    title: `Blog de Siddharta Navarro`,
-    author: `Siddharta Navarro`,
-    subtitle: `Blog personal de Siddharta Navarro, product owner en Mailtrack.io`,
+    title: `Gatsby Starter Blog`,
+    author: `Kyle Mathews`,
+    description: `A starter blog demonstrating what Gatsby can do.`,
     siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
     social: {
-      twitter: `sidddi`,
+      twitter: `kylemathews`,
     },
   },
   plugins: [
